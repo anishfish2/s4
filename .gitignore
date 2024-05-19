@@ -1,0 +1,7 @@
+venv/
+s4/
+data/
+kernels/
+models/
+notebooks/
+src/
